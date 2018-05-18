@@ -8,3 +8,7 @@ group, member can claim task(s) that they are interested in
 and mark as completed when they are done.
 
 # Screenshots
+![alt text](screenshotA.png)
+![alt text](screenshotB.png)
+![alt text](screenshotC.png)
+![alt text](screenshotD.png)
